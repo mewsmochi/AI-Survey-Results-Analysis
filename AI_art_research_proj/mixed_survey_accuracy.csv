@@ -1,0 +1,17 @@
+artwork_num,true_creator,thought_human,thought_ai,accuracy
+art_1,ai,19,8,0.296
+art_2,human,11,17,0.393
+art_3,ai,10,17,0.63
+art_4,human,21,7,0.75
+art_5,ai,14,14,0.5
+art_6,human,21,6,0.778
+art_7,ai,19,9,0.679
+art_8,human,16,12,0.571
+art_9,ai,14,14,0.5
+art_10,human,18,10,0.643
+art_11,ai,20,7,0.741
+art_12,human,20,8,0.714
+art_13,ai,19,9,0.321
+art_14,human,21,7,0.75
+art_15,ai,16,12,0.429
+art_16,human,23,5,0.821
